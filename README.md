@@ -41,7 +41,7 @@ Probabilities of each class are output of CNN model and the classification algor
 - `SED_File.m`:
 MATLAB code for sound event detection of recorded WAV files. You can test out the sound event detection with WAV files inside `audio` folder. 
 - `SED_RealTime.m`:
-MATLAB code for sound event detection of streaming WAV files. First, start a microphone to record and run this code for streaming sound event detection. 
+MATLAB code for sound event detection of streaming WAV files. First, start a microphone to record and run this code for streaming sound event detection. If you are using Thingy:52 for mic, go to [this repository](https://github.com/lucy0828/Thingy52-RaspberryPi-Mic) for collecting streaming audio files to your Linux system. 
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/46836844/132274597-949b25df-22f7-404a-8aab-913d0b13cfd6.jpg" width="60%">
