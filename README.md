@@ -44,5 +44,5 @@ MATLAB code for sound event detection of recorded WAV files. You can test out th
 MATLAB code for sound event detection of streaming WAV files. First, start a microphone to record and run this code for streaming sound event detection. 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/46836844/132271587-812ed0eb-e1e7-495a-abbf-44fd2bad36a2.jpg" width="60%">
+  <img src="https://user-images.githubusercontent.com/46836844/132274597-949b25df-22f7-404a-8aab-913d0b13cfd6.jpg" width="60%">
 </p>
